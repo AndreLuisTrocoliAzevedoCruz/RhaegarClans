@@ -58,5 +58,7 @@ O RhaegarClans implementa a interface Relational do PlaceholderAPI, permitindo q
 
 
 Plugins recomendados para se utilizar com o RhaegarClans: LuckPerms, TAB, PlaceHolderAPI, LPC, DecentHolograms
+Para utilizar o Plugin, basta baixar o JAR
+
 
 
