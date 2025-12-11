@@ -1,0 +1,10 @@
+br\com\mod\rhaegarClans\core\Clan.class
+br\com\mod\rhaegarClans\chat\AllyChatCommand.class
+br\com\mod\rhaegarClans\integration\ClanExpansion.class
+br\com\mod\rhaegarClans\RhaegarClans.class
+br\com\mod\rhaegarClans\command\ClanCoreCommand.class
+br\com\mod\rhaegarClans\chat\ClanChatCommand.class
+br\com\mod\rhaegarClans\core\ClanConfig.class
+br\com\mod\rhaegarClans\core\ClanManager.class
+br\com\mod\rhaegarClans\command\ClanDiplomacyCommand.class
+br\com\mod\rhaegarClans\command\ClanCommand.class

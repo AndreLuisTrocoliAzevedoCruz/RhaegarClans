@@ -1,0 +1,22 @@
+name: RhaegarClans
+version: 1.0-SNAPSHOT
+main: br.com.mod.rhaegarClans.RhaegarClans
+api-version: 1.21
+authors:
+  - rhaegarboy
+description: Um plugin simples de Clãs.
+softdepend: [PlaceholderAPI]
+
+# --- SEÇÃO DE COMANDOS ---
+commands:
+  clan:
+    description: Comandos principais do sistema de clãs.
+    usage: /clan <argumentos>
+    aliases: [clans, c]
+  .:
+    description: Chat exclusivo do clã.
+    usage: /. <mensagem>
+  ally: # NOVO: Registrando o comando para o chat de aliança
+    description: Chat exclusivo com clãs aliados.
+    usage: /ally <mensagem>
+    aliases: [a]
